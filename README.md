@@ -2,8 +2,9 @@
 Tkinter geometry, tittle
 
 
-![Geometry](https://user-images.githubusercontent.com/81771773/116789422-240dd700-aac8-11eb-87e5-7b7bb1abe178.PNG)
+![Geometry](https://user-images.githubusercontent.com/81771773/116789531-c3cb6500-aac8-11eb-8ec0-7270a01b878e.PNG)
 
 
 
-![Title](https://user-images.githubusercontent.com/81771773/116789424-25d79a80-aac8-11eb-9453-3246f5d86009.PNG)
+![Title](https://user-images.githubusercontent.com/81771773/116789533-c5952880-aac8-11eb-827c-ca2f8f8caeba.PNG)
+
